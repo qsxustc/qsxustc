@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qsxustc
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning computer science
-- 📫 How to reach me ：qsxjack@gmail.com
+- 📫 How to reach me ：
 
 
 <!---
